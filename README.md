@@ -6,6 +6,10 @@ This project shows a map of Boston, and the route a bus takes from MIT to Harvar
 
 This is a simple project to run, where the button in the top left starts the bus route.  Once it ends the page must be reloaded to start again.
 
+# How to Run
+
+Choose which city you would like to see the stops for.  Click show stops to see the marker move between each stop on the route.
+
 # RoadMap
 
 I would like to make a more interactive version of this that incorporates a bus schedule.
